@@ -21,3 +21,7 @@ button{
     padding: 10px;
     background-color: #EAD7BB;
 }
+
+button:hover{
+    font-size: 60%;
+}
