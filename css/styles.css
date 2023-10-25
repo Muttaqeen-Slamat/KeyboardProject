@@ -1,7 +1,8 @@
 *,
 *::after,
 *::before{
-    padding: 0;
+    padding: auto;
+    margin: auto;
     background-color: #FFF2D8;
     color: #113946;
 }
@@ -9,9 +10,8 @@
 
 
 .container{
-    align-content: center;
     font-size: 25px;
-    margin-bottom: 10vh;
+    margin-top: 20vh;
     
 }
 
@@ -25,6 +25,9 @@ button{
 button:hover{
     font-size: 60%;
     padding: 10px;
+    text-decoration: underline ;
+    font-style: italic;
+    color:#19586d;
 }
 
 .Spaceb{
