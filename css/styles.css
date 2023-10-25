@@ -3,4 +3,21 @@
 *::before{
     margin: 0;
     padding: 0;
+    background-color: #FFF2D8;
+    color: #113946;
+}
+
+
+
+.container{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    font-size: 25px;
+    
+}
+
+button{
+    padding: 10px;
+    background-color: #EAD7BB;
 }
